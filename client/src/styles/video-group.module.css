@@ -1,0 +1,18 @@
+.video-placeholders {
+  width: 90%;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.video-placeholder {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  background-color: #333;
+  color: white;
+  border-radius: 5px;
+}

@@ -1,0 +1,24 @@
+.generate-video {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: black;
+  min-height: 100vh;
+}
+
+.generate-video h1 {
+  color: white;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.prompt-input-field {
+  width: 80%;
+  margin: 2rem auto;
+}
+
+.generated-videos {
+  width: 80%;
+  margin: auto;
+  margin-bottom: 4rem;
+}

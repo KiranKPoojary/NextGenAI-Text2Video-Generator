@@ -1,0 +1,28 @@
+.menu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #000;
+  justify-content: center;
+}
+.menu-heading {
+  color: #000000;
+  background-color: #218d85;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-weight: bold;
+  font-family: "Inter", sans-serif;
+  margin: 10px;
+}
+.menu-button {
+  color: #000000;
+  background-color: #00a79d;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-weight: bold;
+  font-family: "Inter", sans-serif;
+  margin: 10px;
+  cursor: pointer;
+}

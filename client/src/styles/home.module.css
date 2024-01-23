@@ -1,0 +1,53 @@
+.home {
+  background-color: black;
+  color: white;
+  min-height: 100vh;
+}
+
+.hero > P {
+  width: 80%;
+  text-align: center;
+  margin: auto;
+}
+.hero > P {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  margin-top: 4rem;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  width: 80%;
+  margin: auto;
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 6rem;
+}
+
+.hero > p {
+  width: 60%;
+  margin: auto;
+  font-size: 0.8rem;
+}
+
+.home-prompt {
+  margin: 4rem auto;
+}
+
+.home-video-group {
+  width: 100%;
+  margin: auto;
+}
+
+.sample-video {
+  width: 90%;
+  margin: auto;
+  margin-top: 7rem;
+}
+.sample-video > h2 {
+  font-size: 2.5rem;
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+  margin: 0;
+}

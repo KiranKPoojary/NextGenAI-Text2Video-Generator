@@ -1,0 +1,28 @@
+.input-field {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #000;
+  padding: 10px 50px;
+  width: 60%;
+  margin: auto;
+}
+
+.input-field > input {
+  width: 70%;
+  padding: 10px;
+  color: white;
+  background-color: #333;
+  border: none;
+  border-radius: 5px;
+}
+
+.input-field > button {
+  width: 20%;
+  padding: 10px;
+  color: white;
+  background-color: #00a79d;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
